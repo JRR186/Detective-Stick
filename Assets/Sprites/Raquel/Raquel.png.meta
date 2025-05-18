@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 16b71ada8df795141973197722f7777d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7844742808121291272
+    second: Raquel_0
+  - first:
+      213: 5291322705277575143
+    second: Raquel_1
+  - first:
+      213: 2851779888050080617
+    second: Raquel_2
+  - first:
+      213: 1214501113614514942
+    second: Raquel_3
+  - first:
+      213: 7391882353939105408
+    second: Raquel_4
+  - first:
+      213: -6974838609353418497
+    second: Raquel_5
+  - first:
+      213: -1143614324792192950
+    second: Raquel_6
+  - first:
+      213: 2685961755538834614
+    second: Raquel_7
+  - first:
+      213: -6038459443339237290
+    second: Raquel_8
+  - first:
+      213: 555178866449334075
+    second: Raquel_9
+  - first:
+      213: 5288812776043240094
+    second: Raquel_10
+  - first:
+      213: 3121153531487730875
+    second: Raquel_11
+  - first:
+      213: -1841946600705489260
+    second: Raquel_12
+  - first:
+      213: 6006413428964508401
+    second: Raquel_13
+  - first:
+      213: -1359639143135782256
+    second: Raquel_14
+  - first:
+      213: -2634569160095417117
+    second: Raquel_15
+  - first:
+      213: -6795443152355792313
+    second: Raquel_16
+  - first:
+      213: -719411877729013989
+    second: Raquel_17
+  - first:
+      213: -6450127391583104685
+    second: Raquel_18
+  - first:
+      213: 96167575290159531
+    second: Raquel_19
+  - first:
+      213: 7040200089654631238
+    second: Raquel_20
+  - first:
+      213: -1697321856170300977
+    second: Raquel_21
+  - first:
+      213: -3756309062359048474
+    second: Raquel_22
+  - first:
+      213: 653421193467177425
+    second: Raquel_23
+  - first:
+      213: 3410048422724086353
+    second: Raquel_24
+  - first:
+      213: -5608893127885106026
+    second: Raquel_25
+  - first:
+      213: -626388178574470705
+    second: Raquel_26
+  - first:
+      213: 8096240311756869551
+    second: Raquel_27
+  - first:
+      213: 8423722888708066542
+    second: Raquel_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raquel_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802be5055002edc60800000000000000
+      internalID: 7844742808121291272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef570047fd8e6940800000000000000
+      internalID: 5291322705277575143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b04d4e2be839720800000000000000
+      internalID: 2851779888050080617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 321
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa3f400456cad010800000000000000
+      internalID: 1214501113614514942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 320
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086c40846dd359660800000000000000
+      internalID: 7391882353939105408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 320
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85fc33d35643f90800000000000000
+      internalID: -6974838609353418497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4096baa4d01120f0800000000000000
+      internalID: -1143614324792192950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 267
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44d2f5cf3764520800000000000000
+      internalID: 2685961755538834614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 261
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65869212125133ca0800000000000000
+      internalID: -6038459443339237290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3481dc3464b700800000000000000
+      internalID: 555178866449334075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ada9fc233a56940800000000000000
+      internalID: 5288812776043240094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 258
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc38cda990905b20800000000000000
+      internalID: 3121153531487730875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49606b163571076e0800000000000000
+      internalID: -1841946600705489260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 196
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2c097b0311b5350800000000000000
+      internalID: 6006413428964508401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 203
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09adcaa2767912de0800000000000000
+      internalID: -1359639143135782256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 192
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec3054be41207bd0800000000000000
+      internalID: -2634569160095417117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ae87ce47cb1b1a0800000000000000
+      internalID: -6795443152355792313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 193
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe3c475b22406f0800000000000000
+      internalID: -719411877729013989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511ca4cf4b8c76a0800000000000000
+      internalID: -6450127391583104685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1a41476e7a55100800000000000000
+      internalID: 96167575290159531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 128
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b99835ea0d3b160800000000000000
+      internalID: 7040200089654631238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 128
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9667db3c6e178e0800000000000000
+      internalID: -1697321856170300977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 128
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee128f3fc8eedbc0800000000000000
+      internalID: -3756309062359048474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 128
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a25d0d1b611900800000000000000
+      internalID: 653421193467177425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa95729fce25f20800000000000000
+      internalID: 3410048422724086353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945749da653922b0800000000000000
+      internalID: -5608893127885106026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc19094354f9e47f0800000000000000
+      internalID: -626388178574470705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf4776faaf9b5070800000000000000
+      internalID: 8096240311756869551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raquel_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 109
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec85c3265317e470800000000000000
+      internalID: 8423722888708066542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Raquel_0: 7844742808121291272
+      Raquel_1: 5291322705277575143
+      Raquel_10: 5288812776043240094
+      Raquel_11: 3121153531487730875
+      Raquel_12: -1841946600705489260
+      Raquel_13: 6006413428964508401
+      Raquel_14: -1359639143135782256
+      Raquel_15: -2634569160095417117
+      Raquel_16: -6795443152355792313
+      Raquel_17: -719411877729013989
+      Raquel_18: -6450127391583104685
+      Raquel_19: 96167575290159531
+      Raquel_2: 2851779888050080617
+      Raquel_20: 7040200089654631238
+      Raquel_21: -1697321856170300977
+      Raquel_22: -3756309062359048474
+      Raquel_23: 653421193467177425
+      Raquel_24: 3410048422724086353
+      Raquel_25: -5608893127885106026
+      Raquel_26: -626388178574470705
+      Raquel_27: 8096240311756869551
+      Raquel_28: 8423722888708066542
+      Raquel_3: 1214501113614514942
+      Raquel_4: 7391882353939105408
+      Raquel_5: -6974838609353418497
+      Raquel_6: -1143614324792192950
+      Raquel_7: 2685961755538834614
+      Raquel_8: -6038459443339237290
+      Raquel_9: 555178866449334075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
